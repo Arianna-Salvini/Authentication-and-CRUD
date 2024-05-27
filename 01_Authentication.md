@@ -119,5 +119,5 @@ Route::middleware(['auth', 'verified'])
 php artisan make:model Nameprojecthere -mscrR
 ```
 Continue to:
-[text](02_CRUD_operation.md)
+# [CRUD operations](02_CRUD_operation.md)
 
